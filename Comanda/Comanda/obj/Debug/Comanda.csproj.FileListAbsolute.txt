@@ -1,0 +1,10 @@
+C:\Users\lyss_\Desktop\Comanda\Comanda\obj\Debug\Comanda.csprojAssemblyReference.cache
+C:\Users\lyss_\Desktop\Comanda\Comanda\obj\Debug\Comanda.Form1.resources
+C:\Users\lyss_\Desktop\Comanda\Comanda\obj\Debug\Comanda.Properties.Resources.resources
+C:\Users\lyss_\Desktop\Comanda\Comanda\obj\Debug\Comanda.csproj.GenerateResource.cache
+C:\Users\lyss_\Desktop\Comanda\Comanda\obj\Debug\Comanda.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\Desktop\Comanda\Comanda\bin\Debug\Comanda.exe.config
+C:\Users\lyss_\Desktop\Comanda\Comanda\bin\Debug\Comanda.exe
+C:\Users\lyss_\Desktop\Comanda\Comanda\bin\Debug\Comanda.pdb
+C:\Users\lyss_\Desktop\Comanda\Comanda\obj\Debug\Comanda.exe
+C:\Users\lyss_\Desktop\Comanda\Comanda\obj\Debug\Comanda.pdb
